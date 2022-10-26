@@ -1,14 +1,14 @@
 <div align="center" style="text-align:center">
     <a href="#" onclick="return false;">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=kobuskc&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=kobuskc&show_icons=true&theme=default&bg_color=0000&count_private=true&hide_border=true"
             alt="kobuskc's stats">
     </a>
     <a href="#" onclick="return false;">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kobuskc&theme=vue&background=0000&hide_border=true"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kobuskc&theme=default&background=0000&hide_border=true"
             alt="kobuskc's commit streak">
     </a>
     <a href="#" onclick="return false;">
-        <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobuskc&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
+        <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobuskc&layout=compact&bg_color=0000&theme=default&show_icons=true&locale=en&hide_border=true"
             alt="kobuskc's language stats">
     </a>
     <br></br>
